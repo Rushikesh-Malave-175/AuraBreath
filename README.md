@@ -8,8 +8,8 @@
   - **Sky Blue** for Inhale
   - **Indigo** for Hold
   - **Warm Orange** for Exhale
-- ⏱️ Customizable timing for each phase.
-- 📌 "Always on Top" toggle to keep the window visible during practice.
+- Customizable timing for each phase.
+- "Always on Top" toggle to keep the window visible during practice.
 
 ### 🧠 Inspiration
 
@@ -17,11 +17,10 @@ I often found myself breathing shallow and inconsistent while coding. After read
 
 ### Example Use Case
 
-The app is great for practicing **box breathing**, **Wim Hof**, or other breathwork routines for relaxation, stress relief, or focus, while you're 
+The app is great for practicing **box breathing**, **Wim Hof**, or other breathwork routines for relaxation, stress relief, or focus, while you're working.
 
 
-### 📸 Screenshot
+### 📸 Screenshots
 
-> _(Add a screenshot here if you'd like)_
 
 
