@@ -1,5 +1,5 @@
 # AuraBreath
-### A simple windows breathing assistant app to practice mindful breathing using your computer, to have infinite enegy and boost brain power
+### A simple windows breathing assistant app to practice mindful breathing while using your computer, to have infinite enegy and boost brain power
 
 
 ### 🌟 Features
